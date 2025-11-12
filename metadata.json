@@ -1,0 +1,5 @@
+{
+  "name": "RAG Chatbot with Gemini",
+  "description": "An intelligent Q&A system that answers domain-specific questions by retrieving information from a user-uploaded knowledge base. This app demonstrates a Retrieval-Augmented Generation (RAG) pipeline using Gemini.",
+  "requestFramePermissions": []
+}
